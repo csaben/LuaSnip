@@ -4,6 +4,7 @@ must also add the following directory and file for my lua.all to work for you
 
 [https://www.ejmastnak.com/tutorials/vim-latex/luasnip/](https://www.ejmastnak.com/tutorials/vim-latex/luasnip/#:~:text=Create%20a%20file%20at%20e.g.%20~/.config/nvim/lua/luasnip%2Dhelper%2Dfuncs.lua%2C%20and%20inside%20it%20place)
 
+```
 -- ~/.config/nvim/lua/luasnip-helper-funcs.lua
 local M = {}
 
@@ -21,3 +22,4 @@ function M.get_visual(args, parent)
 end
 
 return M
+```
