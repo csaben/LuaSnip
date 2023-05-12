@@ -1,6 +1,6 @@
 # LuaSnip
 
-must also add the following directory and file for my lua.all to work for you
+must also add the following directory and file for my all.lua to work for you
 
 [https://www.ejmastnak.com/tutorials/vim-latex/luasnip/](https://www.ejmastnak.com/tutorials/vim-latex/luasnip/#:~:text=Create%20a%20file%20at%20e.g.%20~/.config/nvim/lua/luasnip%2Dhelper%2Dfuncs.lua%2C%20and%20inside%20it%20place)
 
